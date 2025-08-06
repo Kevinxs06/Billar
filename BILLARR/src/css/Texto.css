@@ -1,0 +1,22 @@
+.informacion {  
+  max-width: 500px;
+  padding: 20px 30px;
+  background-color: #f5f5fa;
+  border-left: 6px solid #2c2c54;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 130px;
+}
+
+.informacion h2 {
+  font-size: 24px;
+  color: #2c2c54;
+  margin-bottom: 10px;
+}
+
+.informacion p {
+  font-size: 16px;
+  color: #333;
+  line-height: 1.6;
+}
